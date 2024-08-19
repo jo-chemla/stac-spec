@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+
+- `item_assets` is not required
+
 ## [v1.1.0-beta.1] - 2024-08-08
 
 ### Added
