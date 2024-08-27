@@ -59,6 +59,12 @@
     ],
     "gsd": 0.66,
     "eo:cloud_cover": 1.2,
+    "eo:snow_cover": 0,
+    "statistics": {
+      "vegetation": 12.57,
+      "water": 1.23,
+      "urban": 26.2
+    },
     "proj:code": "EPSG:32659",
     "proj:shape": [
       5558,
