@@ -298,7 +298,8 @@ For example, it could list additional coverages such as vegetation cover, land c
 If statistics are provided in the Item Properties ([example](../examples/extended-item.json)),
 it is recommended to list the statistical sizes with a JSON Schema in the Collection Summaries
 to better describe the sizes ([example](../examples/collection.json)).
-Please note that some statistical sizes such as cloud cover have explicit fields in extensions such as the EO extension.
+Please note that some statistical sizes such as cloud cover have explicit fields in other extensions such as the EO extension.
+It is recommended to use the fields standardized in extensions in favor of providing them in the Statistics Object.
 
 | Field Name    | Type    | Description                                                                                                                            |
 | ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------- |
